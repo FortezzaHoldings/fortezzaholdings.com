@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fortezza Holdings | Premier Real Estate Services | Buy, Sell & Investment Properties</title>
+    <meta name="description" content="Fortezza Holdings offers premier real estate services including property buying, selling, and investment opportunities. Your trusted partner in real estate transactions.">
+    <meta name="keywords" content="real estate, property, buy house, sell house, real estate agent, Fortezza Holdings, investment properties">
+    <meta name="author" content="Fortezza Holdings">
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Fortezza Holdings | Premier Real Estate Services">
+    <meta property="og:description" content="Your trusted partner for buying, selling, and investing in real estate.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fortezzaholdings.com">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "RealEstateAgent",
+        "name": "Fortezza Holdings",
+        "description": "Premier real estate services including buying, selling, and investment properties",
+        "url": "https://fortezzaholdings.com",
+        "telephone": "+1-555-FORTEZZA",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Your City",
+            "addressRegion": "Your State",
+            "addressCountry": "US"
+        }
+    }
+    </script>
+    
+    <link rel="stylesheet" href="styles.css">
+    <link rel="canonical" href="https://fortezzaholdings.com">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="nav-container">
+                <h1 class="logo">Fortezza Holdings</h1>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="buy.html">Buy</a></li>
+                    <li><a href="sell.html">Sell</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Your Premier Real Estate Partner</h1>
+                <p>Fortezza Holdings delivers exceptional real estate services with integrity, expertise, and personalized attention to every client.</p>
+                <div class="cta-buttons">
+                    <a href="buy.html" class="btn-primary">Find Your Dream Home</a>
+                    <a href="sell.html" class="btn-secondary">Sell Your Property</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="services">
+            <div class="container">
+                <h2>Our Services</h2>
+                <div class="services-grid">
+                    <article class="service-card">
+                        <h3>Property Buying</h3>
+                        <p>Find your perfect home with our extensive property listings and expert guidance.</p>
+                        <a href="buy.html">Learn More</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Property Selling</h3>
+                        <p>Maximize your property value with our proven marketing strategies and market expertise.</p>
+                        <a href="sell.html">Learn More</a>
+                    </article>
+                    <article class="service-card">
+                        <h3>Investment Opportunities</h3>
+                        <p>Discover lucrative real estate investments with professional analysis and support.</p>
+                        <a href="contact.html">Get Started</a>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section class="why-choose-us">
+            <div class="container">
+                <h2>Why Choose Fortezza Holdings?</h2>
+                <div class="features-grid">
+                    <div class="feature">
+                        <h3>Local Market Expertise</h3>
+                        <p>Deep knowledge of local market trends and property values.</p>
+                    </div>
+                    <div class="feature">
+                        <h3>Personalized Service</h3>
+                        <p>Tailored approach to meet your unique real estate needs.</p>
+                    </div>
+                    <div class="feature">
+                        <h3>Proven Track Record</h3>
+                        <p>Successful transactions and satisfied clients across the region.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Fortezza Holdings</h3>
+                <p>Your trusted real estate partner</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="buy.html">Buy Property</a></li>
+                    <li><a href="sell.html">Sell Property</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact Info</h3>
+                <p>**info@fortezzaholdings.com**</p>
+                <p>Phone: +1-555-FORTEZZA</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Fortezza Holdings. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
